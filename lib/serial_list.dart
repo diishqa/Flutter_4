@@ -1,6 +1,5 @@
 import 'package:anime_catalog/serial_card.dart';
 import 'package:flutter/material.dart';
-import 'package:anime_catalog/serial_list.dart';
 import 'package:anime_catalog/models/serial.dart';
 
 class SerialList extends StatelessWidget {
