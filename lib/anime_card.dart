@@ -22,7 +22,7 @@ class AnimeCard extends StatelessWidget {
       SnackBar(
         content: Text(anime.description),
         duration: const Duration(seconds: 3),
-       ),
+      ),
     );
   }
   Widget _buildPoster() {
